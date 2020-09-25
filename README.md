@@ -1,0 +1,1 @@
+# why-access-array-via-index-is-fast
